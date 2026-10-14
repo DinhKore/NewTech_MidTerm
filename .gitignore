@@ -1,1 +1,9 @@
+# Bỏ qua thư mục môi trường ảo Python
+venv/
+venv
+
+# Bỏ qua file chứa biến môi trường và API Key (Bắt buộc để bảo mật)
 .env
+
+# Bỏ qua file nén bài thi (Git sinh ra để quản lý code gốc, không nên đẩy file zip lên)
+22110021_HanMinhDinh_MidTerm*.zip
